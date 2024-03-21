@@ -25,3 +25,22 @@ The Vehicle Rental Management System is a console application designed to manage
 **- RentalAgency:** Manages the fleet of vehicles, handling adding, removing, renting, returning vehicles, and displaying fleet information.
 
 **- Program:** Contains the main method, providing a user interface for interacting with the RentalAgency class and managing the fleet.
+
+# Screen shots:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
