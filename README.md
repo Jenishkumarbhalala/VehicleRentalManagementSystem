@@ -26,21 +26,13 @@ The Vehicle Rental Management System is a console application designed to manage
 
 **- Program:** Contains the main method, providing a user interface for interacting with the RentalAgency class and managing the fleet.
 
-# Screen shots:
+# Screen shots
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
+![image](https://github.com/Jenishkumarbhalala/VehicleRentalManagementSystem/assets/142840309/8a5c82dd-9dfe-4fec-98ea-27877c5c8998)
+![image](https://github.com/Jenishkumarbhalala/VehicleRentalManagementSystem/assets/142840309/aeb8a41e-47fa-40b4-9235-fa1b9af9ddfa)
+![image](https://github.com/Jenishkumarbhalala/VehicleRentalManagementSystem/assets/142840309/78a179f2-43a4-4965-bc8b-40d5df50f833)
+![image](https://github.com/Jenishkumarbhalala/VehicleRentalManagementSystem/assets/142840309/e7b9fdee-c965-4489-a91b-b1e571df5853)
+![image](https://github.com/Jenishkumarbhalala/VehicleRentalManagementSystem/assets/142840309/d3961ad3-1fa1-4b3b-a4a5-b3600731eae0)
+![image](https://github.com/Jenishkumarbhalala/VehicleRentalManagementSystem/assets/142840309/a485013d-8416-4fa1-8907-62927ec943f7)
+![image](https://github.com/Jenishkumarbhalala/VehicleRentalManagementSystem/assets/142840309/ab8e0d4f-8797-46f3-9c46-a4861ec31b0c)
+![image](https://github.com/Jenishkumarbhalala/VehicleRentalManagementSystem/assets/142840309/1d522518-8d2d-4340-a956-17f9c9ea51b6)
