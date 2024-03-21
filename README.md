@@ -14,7 +14,7 @@ The Vehicle Rental Management System is a console application designed to manage
 
 ## Classes and Their Functions
 
-**-1.Vehicle (Abstract Class)**: Serves as a base class for different types of vehicles, holding common properties like model, manufacturer, year, and rental price.
+**- Vehicle (Abstract Class)**: Serves as a base class for different types of vehicles, holding common properties like model, manufacturer, year, and rental price.
 **-Car**: Inherits from Vehicle, adding properties specific to cars such as seats, engine type, transmission, and whether it's convertible.
 **-Truck**: Inherits from Vehicle, with additional properties like capacity, truck type, and whether it has four-wheel drive.
 **-Motorcycle**: Inherits from Vehicle, including properties like engine capacity, fuel type, and whether it has fairing.
